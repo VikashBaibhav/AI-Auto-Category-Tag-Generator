@@ -38,7 +38,7 @@ To achieve **Business Logic Grounding** and **Practical Usefulness**, the follow
 ## 🚀 Local Setup
 1. **Clone the repo**:
    ```bash
-   git clone <your-repo-link>
+   git clone (https://github.com/VikashBaibhav/AI-Auto-Category-Tag-Generator)
 
 2. **Install dependencies**:
   ```bash
