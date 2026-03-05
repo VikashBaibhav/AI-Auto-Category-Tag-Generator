@@ -16,7 +16,7 @@ This project is built with a focus on **Clean Architecture** and **Separation of
 
 ---
 
-## 🧠 AI Prompt Design & Logic
+## AI Prompt Design & Logic
 To achieve **Business Logic Grounding** and **Practical Usefulness**, the following strategies were implemented:
 
 1.  **System Instructioning**: The AI is strictly role-played as a "Senior E-commerce Catalog Manager" to ensure professional and accurate metadata.
