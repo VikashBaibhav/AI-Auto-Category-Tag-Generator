@@ -1,11 +1,11 @@
-# 🤖 AI Auto-Category & Tag Generator
+# AI Auto-Category & Tag Generator
 **Powered by Google Gemini 2.5 Flash**
 
 A sophisticated E-commerce Product Intelligence tool that automates categorization, SEO tag generation, and sustainability filtering using advanced Generative AI.
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 This project is built with a focus on **Clean Architecture** and **Separation of Concerns** to ensure scalability and reliability:
 
 * **`/api`**: The web layer handling RESTful routing and request/response cycles.
@@ -27,7 +27,7 @@ To achieve **Business Logic Grounding** and **Practical Usefulness**, the follow
 
 ---
 
-## 🛠️ Technical Requirements Met
+## Technical Requirements Met
 * ✅ **Structured JSON Outputs**: Validated against internal models.
 * ✅ **Environment-based API Management**: Uses `.env` for secure key handling (excluded from GitHub for security).
 * ✅ **Prompt & Response Logging**: Full traceability in `logs/app.log`.
@@ -35,7 +35,7 @@ To achieve **Business Logic Grounding** and **Practical Usefulness**, the follow
 
 ---
 
-## 🚀 Local Setup
+## Local Setup
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/VikashBaibhav/AI-Auto-Category-Tag-Generator
